@@ -1,30 +1,6 @@
 # StockWise
 
 
-Description: The objective of the project is to develop a simple Inventory Management System that allows managing the products in a company's stock. The system will be implemented in Java and will have the following functionalities:
-
-1. **Product Class**: A class representing the products in stock. Each product will have the following attributes: `id`, `name`, `quantity`, and `price`.
-
-2. **Inventory Class**: A class responsible for storing and managing the products in stock. This class will have a list of `Product` objects and will be capable of performing the following operations:
-   - Add a product to the stock.
-   - Update the data of an existing product in the stock.
-   - Get a product by its ID.
-   - Get the list of all products in stock.
-
-3. **Main Class (Main)**: A class that will contain the program's entry point. It will allow the user to interact with the inventory through a simple menu on the console. The menu options will be:
-   - Add a new product to the stock.
-   - Update the data of an existing product.
-   - View the information of a product by its ID.
-   - View the list of all products in stock.
-   - Exit the system.
-
-The project aims to provide an overview of how an ERP system can manage a company's stock. It's a simple implementation and doesn't consider all the complex aspects that a real system should encompass.
-
-
-
-
----
-
 <details>
 <summary>
 <b> Tradução PT-BR </b>
@@ -49,4 +25,42 @@ Descrição: O objetivo do projeto é desenvolver um Sistema de Gestão de Estoq
 
 O projeto visa oferecer uma visão geral de como um sistema ERP pode gerenciar o estoque de uma empresa. É uma implementação simples e não considera todos os aspectos complexos que um sistema real deve contemplar.
 
+A execução do projeto foi dividida em 3 etapas com o intuito de aprimorar o desenvolvimento e a compreensão do projeto:
+
+1. Análise: Nesta fase, foi produzida a documentação detalhada, projetadas as atividades e idealizado o software a ser desenvolvido.
+2. Prototipação: Aqui, foi criado um desenho básico da interface para melhor atender às preferências do cliente e garantir uma visualização inicial do produto em desenvolvimento.
+3. Programação: Etapa em que ocorreu a efetiva feitura do código, dando vida ao projeto conforme o planejamento e as especificações definidas nas fases anteriores.
+
 </details>
+
+---
+
+Description: The objective of the project is to develop a simple Inventory Management System that allows managing the products in a company's stock. The system will be implemented in Java and will have the following functionalities:
+
+1. **Product Class**: A class representing the products in stock. Each product will have the following attributes: `id`, `name`, `quantity`, and `price`.
+
+2. **Inventory Class**: A class responsible for storing and managing the products in stock. This class will have a list of `Product` objects and will be capable of performing the following operations:
+   - Add a product to the stock.
+   - Update the data of an existing product in the stock.
+   - Get a product by its ID.
+   - Get the list of all products in stock.
+
+3. **Main Class (Main)**: A class that will contain the program's entry point. It will allow the user to interact with the inventory through a simple menu on the console. The menu options will be:
+   - Add a new product to the stock.
+   - Update the data of an existing product.
+   - View the information of a product by its ID.
+   - View the list of all products in stock.
+   - Exit the system.
+
+The project aims to provide an overview of how an ERP system can manage a company's stock. It's a simple implementation and doesn't consider all the complex aspects that a real system should encompass.
+
+The execution was divided into 3 stages to enhance development and understanding:
+
+1. Analysis: During this phase, detailed documentation was produced, activities were projected, and the software was conceptualized.
+2. Prototyping: Here, a basic interface design was created to better meet the client's preferences and ensure an initial visualization of the developing product.
+3. Programming: This stage involved the actual coding, bringing the project to life according to the planning and specifications defined in the previous phases.
+
+
+
+
+
