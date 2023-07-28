@@ -1,5 +1,10 @@
-# StockWise
+# StockWise - Inventory Management
 
+<div align="center">
+
+![](img/logo.png)
+
+</div>
 
 <details>
 <summary>
@@ -7,7 +12,7 @@
 </summary>
 <br>
 
-Descrição: O objetivo do projeto é desenvolver um Sistema de Gestão de Estoque simples, que permita gerenciar os produtos em estoque de uma empresa. O sistema será implementado em Java e terá as seguintes funcionalidades:
+O objetivo do projeto é desenvolver um Sistema de Gestão de Estoque simples, que permita gerenciar os produtos em estoque de uma empresa. O sistema será implementado em Java e terá as seguintes funcionalidades:
 
 1. **Classe Produto**: Uma classe que representará os produtos em estoque. Cada produto terá os seguintes atributos: `id`, `nome`, `quantidade` e `preco`.
 2. **Classe Estoque**: Uma classe responsável por armazenar e gerenciar os produtos em estoque. Essa classe terá uma lista de objetos `Produto` e será capaz de realizar as seguintes operações:
@@ -35,7 +40,7 @@ A execução do projeto foi dividida em 3 etapas com o intuito de aprimorar o de
 
 ---
 
-Description: The objective of the project is to develop a simple Inventory Management System that allows managing the products in a company's stock. The system will be implemented in Java and will have the following functionalities:
+The objective of the project is to develop a simple Inventory Management System that allows managing the products in a company's stock. The system will be implemented in Java and will have the following functionalities:
 
 1. **Product Class**: A class representing the products in stock. Each product will have the following attributes: `id`, `name`, `quantity`, and `price`.
 
