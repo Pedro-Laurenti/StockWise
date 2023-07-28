@@ -23,10 +23,11 @@ The project aims to provide an overview of how an ERP system can manage a compan
 
 
 
+---
 
 <details>
 <summary>
-**Tradução PT-BR**
+<b> Tradução PT-BR </b>
 </summary>
 <br>
 
